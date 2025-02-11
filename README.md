@@ -16,23 +16,24 @@
 
 ## CTO & Lead Blockchain Engineer  
 **QuariLabs**  
-06/2024 – Present | Remote  
+*06/2024 – Present | Remote*  
 
-## Lead Blockchain/Product Engineer
+## Lead Blockchain / Product Engineer  
 **Velix Protocol**  
-08/2023 – Present | Remote  
+*08/2023 – Present | Remote*  
 
 ## Full-stack (Blockchain) Engineer  
 **EarlyNode**  
-01/2023 – 11/2023 | Remote  
+*01/2023 – 11/2023 | Remote*  
 
-## Blockchain Engineer  
-**EarlyNode**  
-02/2021 – 03/2023 | Remote  
+## Product Engineer  
+**VODACOM CONGO (RDC) S.A**  
+*05/2022 – 03/2023 | Remote*  
 
 ## Full Stack Developer  
 **Fasto Services**  
-01/2020 – 03/2021 | Kampala, Uganda  
+*01/2020 – 04/2022 | Kampala, Uganda*  
+
 
  **📧 How to reach me: <a href="galiencodes13@gmail.com">galiencodes13@gmail.com<a/>**
 
