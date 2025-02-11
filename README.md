@@ -6,6 +6,7 @@
 
 
 <p align="left">I'm a senior Smart Contract/Blockchain Engineer</h3>
+<p> I am a Head of Blockchain development with a strong focus on decentralized finance (DeFi). I have successfully deployed over 100 smart contracts on various networks, including Ethereum, BSC, Fantom, Polygon, Heco, Fusion, and Avalanche.</p>
 
 -  💻 Currently working on backend systems and smart contracts
 -  👯 Looking to collaborate on EVM blockchain projects.
