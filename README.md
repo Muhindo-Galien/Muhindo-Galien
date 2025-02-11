@@ -18,7 +18,7 @@
 **QuariLabs**  
 06/2024 – Present | Remote  
 
-## Lead Blockchain Engineer / Product Engineer
+## Lead Blockchain/Product Engineer
 **Velix Protocol**  
 08/2023 – Present | Remote  
 
