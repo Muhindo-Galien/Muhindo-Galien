@@ -13,14 +13,16 @@
 -  👯 Looking to collaborate on blockchain & AI projects.
 
 # Experience
-
+## AI Engineer 
+**Necta**  
+04/2025 -  Present | San-Francisco
 ## CTO & Lead Blockchain Engineer  
 **QuariLabs**  
-*06/2024 – Present | Remote*  
+*06/2024 – 03/2025 | Remote*  
 
 ## Lead Blockchain / Product Engineer  
 **Velix Protocol**  
-*08/2023 – Present | Remote*  
+*08/2023 – 03/2025 | Remote*  
 
 ## Full-stack (Blockchain) Engineer  
 **EarlyNode**  
