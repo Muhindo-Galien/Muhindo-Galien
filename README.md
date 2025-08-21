@@ -16,7 +16,7 @@
 ## AI Engineer 
 **Necta**  
 04/2025 -  Present | San-Francisco
-## CTO & Lead Blockchain Engineer  
+## Co-founder & Lead Blockchain Engineer  
 **QuariLabs**  
 *06/2024 – 03/2025 | Remote*  
 
