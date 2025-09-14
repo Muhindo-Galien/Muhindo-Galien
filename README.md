@@ -7,10 +7,28 @@
 [![Muhndi Galien Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@galiendev)
 
 
-<p> I am a Head of Blockchain development with a strong focus on decentralized finance (DeFi). I have successfully deployed over 100 smart contracts on various networks, including Ethereum, BSC, Fantom, Polygon, Heco, Fusion, and Avalanche.</p>
+I’m a versatile engineer with over 6 years of experience building products across AI, mobile,frontend, and backend systems. I’ve worked as a mobile engineer on apps used by millions,developed web front-ends for high-frequency trading platforms, and built scalable backend services and APIs for financial systems. I’ve also led the development of large-scale AI agents and DeFi protocols .I’m comfortable working across the stack and enjoy solving complex problems with clean, reliable code.
 
--  💻 Currently working on Defi protocols & Web3 AI agents 
--  👯 Looking to collaborate on blockchain & AI projects.
+**Domain areas:** Applied AI, SaaS, APIs, CX, Developer tools, Security & Compliance, Regulated industries (GovTech, Fintech), Fintech, Payments systems, web3.
+
+## CORE TECHNICAL SKILLS
+**Languages:** Python, JavaScript, TypeScript, Go, Rust, Java, Solidity, SQL,Cairo,PHP
+
+**Frontend:** React.js ,React Native, Next.js, Angular, Svelte, SvelteKit
+
+**Backend:** FastAPI, Django,Flask Node.js, NestJS, Django, Spring Boot, GraphQL,Jest,ESLint,Vector DB
+
+**DevOps & Cloud:** AWS (EKS, Lambda, S3), GCP, Docker, Kubernetes, CI/CD,Kafka,MLOps
+
+**Databases:** PostgreSQL, MySQL, MongoDB, Redis,RabbitMQ, NoSQL,VectorDB
+
+**Blockchain:** Ethereum, Starknet, Solidity, Hardhat, Foundry, IPFS, The Graph
+
+**AI & LLM:** OpenAI API, LangChain,LangGraph, Hugging Face Transformers, RAG, Generative AI , LLMs,Vertex AI & fine-tuning,TensorFlow, PyTorch, Distributed Systems,Data Engineering
+
+**Tools:** Git, GitHub, GitLab, Figma, Postman,Flux, Flow, Redux, Redis,Xcode
+
+**Practices:** Agile, TDD, Microservices, Event-driven Architecture,Debugging
 
 # Experience
 ## AI Engineer 
