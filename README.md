@@ -12,7 +12,7 @@ I’m a versatile engineer with over 6 years of experience building products acr
 **Domain areas:** Applied AI, SaaS, APIs, CX, Developer tools, Security & Compliance, Regulated industries (GovTech, Fintech), Fintech, Payments systems, web3.
 
 ## CORE TECHNICAL SKILLS
-**Languages:** Python, JavaScript, TypeScript, Go, Rust, Java, Solidity, SQL,Cairo,PHP
+**Languages:** Python, JavaScript, TypeScript, Go, Rust, Java, Solidity, SQL,Cairo.
 
 **Frontend:** React.js ,React Native, Next.js, Angular, Svelte, SvelteKit
 
