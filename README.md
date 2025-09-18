@@ -18,7 +18,7 @@ I’m a versatile engineer with over 6 years of experience building products acr
 
 **Backend:** FastAPI, Django,Flask Node.js, NestJS, Django, Spring Boot, GraphQL,Jest,ESLint,Vector DB
 
-**DevOps & Cloud:** AWS (EKS, Lambda, S3), GCP, Docker, Kubernetes, CI/CD,Kafka,MLOps
+**DevOps & Cloud:** AWS (EKS, Lambda, S3), GCP, Docker, Kubernetes, CI/CD,Kafka,MLOps,LLMOps
 
 **Databases:** PostgreSQL, MySQL, MongoDB, Redis,RabbitMQ, NoSQL,VectorDB
 
