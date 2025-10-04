@@ -14,13 +14,13 @@ I’m a versatile engineer with over 6 years of experience building products acr
 ## CORE TECHNICAL SKILLS
 **Languages:** Python, JavaScript, TypeScript, Go, Rust, Java, Solidity, SQL,Cairo.
 
-**Frontend:** React.js ,React Native, Next.js, Angular, Svelte, SvelteKit
+**Frontend:** React.js ,React Native, Next.js.
 
-**Backend:** FastAPI, Django,Flask Node.js, NestJS, Django, Spring Boot, GraphQL,Jest,ESLint,Vector DB
+**Backend:** FastAPI, Django,Flask Node.js, NestJS, Spring Boot, GraphQL,Jest,ESLint,Vector DB
 
 **DevOps & Cloud:** AWS (EKS, Lambda, S3), GCP, Docker, Kubernetes, CI/CD,Kafka,MLOps,LLMOps
 
-**Databases:** PostgreSQL, MySQL, MongoDB, Redis,RabbitMQ, NoSQL,VectorDB
+**Databases:** PostgreSQL, MySQL, MongoDB, Redis, NoSQL,VectorDB
 
 **Blockchain:** Ethereum, Starknet, Solidity, Hardhat, Foundry, IPFS, The Graph
 
@@ -33,7 +33,7 @@ I’m a versatile engineer with over 6 years of experience building products acr
 # Experience
 ## AI Engineer 
 **Necta**  
-04/2025 -  Present | San-Francisco
+04/2025 -  09/2025 | San-Francisco
 ## CTO & Lead Blockchain Engineer  
 **QuariLabs**  
 *06/2024 – 03/2025 | Remote*  
@@ -52,7 +52,7 @@ I’m a versatile engineer with over 6 years of experience building products acr
 
 ## Full Stack Developer  
 **Fasto Services**  
-*01/2020 – 04/2022 | Kampala, Uganda*  
+*01/2020 – 04/2022 |  Remote* 
 
 
  **📧 How to reach me: <a href="galiencodes13@gmail.com">galiencodes13@gmail.com<a/>**
