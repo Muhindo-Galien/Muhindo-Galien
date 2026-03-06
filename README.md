@@ -14,7 +14,7 @@ I’m a versatile engineer with over 6 years of experience building products acr
 ## CORE TECHNICAL SKILLS
 **Languages:** Python, JavaScript, TypeScript, Go, Rust, Java, Solidity, SQL,Cairo.
 
-**Frontend:** React.js ,React Native, Next.js.
+**Frontend:** React.js, Angularjs ,React Native, Next.js.
 
 **Backend:** FastAPI, Django,Flask Node.js, NestJS, Spring Boot, GraphQL,Jest,ESLint,Vector DB
 
