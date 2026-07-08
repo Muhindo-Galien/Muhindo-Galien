@@ -31,6 +31,10 @@ I’m a versatile engineer with over 6 years of experience building products acr
 **Practices:** Agile, TDD, Microservices, Event-driven Architecture,Debugging
 
 # Experience
+## Full-stack Mobile/GenAI Engineer
+**WIZniche**
+09/2025 - 05/2026
+
 ## AI Engineer 
 **Necta**  
 04/2025 -  09/2025 | San-Francisco
