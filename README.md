@@ -2,9 +2,10 @@
 
 ![Profile Image](https://i.ibb.co/B5N9WQbB/Screenshot-2025-02-10-at-17-44-14.png)
 
-[![Muhndi Galien Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhindo-galien/)
-[![Muhndi Galien Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/GalienMuhindo)
-[![Muhndi Galien Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@galiendev)
+[![Muhndo Galien Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhindo-galien/)
+[![Muhndo Galien Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/GalienMuhindo)
+[![Muhndo Galien Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@galiendev)
+[![Muhndo Galien Blog](https://i.ibb.co/b5BPkRYg/Screenshot-2026-07-18-at-00-20-41.png)](https://www.olame.codes)
 
 
 I’m a versatile engineer with over 6 years of experience building products across AI, mobile,frontend, and backend systems. I’ve worked as a mobile engineer on apps used by millions,developed web front-ends for high-frequency trading platforms, and built scalable backend services and APIs for financial systems. I’ve also led the development of large-scale AI agents and DeFi protocols .I’m comfortable working across the stack and enjoy solving complex problems with clean, reliable code.
