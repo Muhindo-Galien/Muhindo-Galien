@@ -8,7 +8,13 @@
 [![Muhndo Galien Blog](https://i.ibb.co/b5BPkRYg/Screenshot-2026-07-18-at-00-20-41.png)](https://www.olame.codes)
 
 
-I’m a versatile engineer with over 6 years of experience building products across AI, mobile,frontend, and backend systems. I’ve worked as a mobile engineer on apps used by millions,developed web front-ends for high-frequency trading platforms, and built scalable backend services and APIs for financial systems. I’ve also led the development of large-scale AI agents and DeFi protocols .I’m comfortable working across the stack and enjoy solving complex problems with clean, reliable code.
+I am a full stack product engineer who builds because I cannot help it. Over the past 6+ years I have led
+engineering teams as a CTO and technical lead, shipped payment systems trusted with real money, and turned
+rough AI prototypes into products people actually use. I work the whole loop: talking to users, designing the
+solution, writing the React and TypeScript frontend and the Go or Python backend, provisioning the
+infrastructure it runs on, and shipping it. Running engineering teams taught me that a team’s output is set by its
+habits far more than its headcount, so I care about review culture, release cadence, and the unglamorous work
+that makes software dependable. Low ego, pragmatic, and product minded
 
 **Domain areas:** Applied AI, SaaS, APIs, CX, Developer tools, Security & Compliance, Regulated industries (GovTech, Fintech), Fintech, Payments systems, web3.
 
