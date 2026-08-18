@@ -14,7 +14,7 @@ rough AI prototypes into products people actually use. I work the whole loop: ta
 solution, writing the React and TypeScript frontend and the Go or Python backend, provisioning the
 infrastructure it runs on, and shipping it. Running engineering teams taught me that a team’s output is set by its
 habits far more than its headcount, so I care about review culture, release cadence, and the unglamorous work
-that makes software dependable. Low ego, pragmatic, and product minded
+that makes software dependable. Low ego, pragmatic,
 
 **Domain areas:** Applied AI, SaaS, APIs, CX, Developer tools, Security & Compliance, Regulated industries (GovTech, Fintech), Fintech, Payments systems, web3.
 
