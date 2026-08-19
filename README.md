@@ -8,7 +8,7 @@
 [![Muhndo Galien Blog](https://i.ibb.co/b5BPkRYg/Screenshot-2026-07-18-at-00-20-41.png)](https://www.olame.codes)
 
 
-I am a full stack product engineer who builds because I cannot help it. Over the past 6+ years I have led
+I am a full stack product engineer who builds because I cannot help it. Over the past 6+ years 
 engineering teams as a CTO and technical lead, shipped payment systems trusted with real money, and turned
 rough AI prototypes into products people actually use. I work the whole loop: talking to users, designing the
 solution, writing the React and TypeScript frontend and the Go or Python backend, provisioning the
