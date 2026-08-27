@@ -19,11 +19,11 @@ that makes software dependable. Low ego, pragmatic and product minded.
 **Domain areas:** Applied AI, SaaS, APIs, CX, Developer tools, Security & Compliance, Regulated industries (GovTech, Fintech), Fintech, Payments systems, web3.
 
 ## CORE TECHNICAL SKILLS
-**Languages:** Python, JavaScript, TypeScript, Go, Rust, Java, Solidity, SQL,Cairo.
+**Languages:** Python, Go, TypeScript, Go, Rust, Solidity, SQL, Cairo.
 
 **Frontend:** React.js, Angularjs ,React Native, Next.js.
 
-**Backend:** FastAPI, Django,Flask Node.js, NestJS, Spring Boot, GraphQL,Jest,ESLint,Vector DB
+**Backend:** FastAPI, Node.js, NestJS, Spring Boot, GraphQL,Jest,ESLint,Vector DB
 
 **DevOps & Cloud:** AWS (EKS, Lambda, S3), GCP, Docker, Kubernetes, CI/CD,Kafka,MLOps,LLMOps
 
