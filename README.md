@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋, I'm Galien Codes</h1>
+<h2 align="left">Hi , I'm Galien Codes</h1>
 
 ![Profile Image](https://i.ibb.co/B5N9WQbB/Screenshot-2025-02-10-at-17-44-14.png)
 
