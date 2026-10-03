@@ -14,53 +14,6 @@ If you can't tell, I'm deep in distributed systems, Generative/Agentic AI, and M
 
 **Domain areas:** Applied AI, SaaS, APIs, CX, Developer tools, Security & Compliance, Regulated industries (GovTech, Fintech), Fintech, Payments systems, web3.
 
-## CORE TECHNICAL SKILLS
-**Languages:** Python, Go, TypeScript, Go, Rust, Solidity, SQL, Cairo.
-
-**Frontend:** React.js, Angularjs ,React Native, Next.js.
-
-**Backend:** FastAPI, Node.js, NestJS, Spring Boot, GraphQL,Jest,ESLint,Vector DB
-
-**DevOps & Cloud:** AWS (EKS, Lambda, S3), GCP, Docker, Kubernetes, CI/CD,Kafka,MLOps,LLMOps
-
-**Databases:** PostgreSQL, MySQL, MongoDB, Redis, NoSQL,VectorDB
-
-**Blockchain:** Ethereum, Starknet, Solidity, Hardhat, Foundry, IPFS, The Graph
-
-**AI & LLM:** OpenAI API, LangChain,LangGraph, Hugging Face Transformers, RAG, Generative AI , LLMs,Vertex AI & fine-tuning,TensorFlow, PyTorch, Distributed Systems,Data Engineering
-
-**Tools:** Git, GitHub, GitLab, Figma, Postman,Flux, Flow, Redux, Redis,Xcode
-
-**Practices:** Agile, TDD, Microservices, Event-driven Architecture,Debugging
-
-# Experience
-## Full-stack Mobile/GenAI Engineer
-**WIZniche**
-09/2025 - 05/2026
-
-## AI Engineer 
-**Necta**  
-04/2025 -  09/2025 | San-Francisco
-## CTO & Lead Blockchain Engineer  
-**QuariLabs**  
-*06/2024 – 03/2025 | Remote*  
-
-## Lead Blockchain / Product Engineer  
-**Velix Protocol**  
-*08/2023 – 03/2025 | Remote*  
-
-## Full-stack (Blockchain) Engineer  
-**EarlyNode**  
-*01/2023 – 11/2023 | Remote*  
-
-## Product Engineer  
-**VODACOM CONGO (RDC) S.A**  
-*05/2022 – 03/2023 | Remote*  
-
-## Full Stack Developer  
-**Fasto Services**  
-*01/2020 – 04/2022 |  Remote* 
-
 
  **📧 How to reach me: <a href="galiencodes13@gmail.com">galiencodes13@gmail.com<a/>**
 
