@@ -12,9 +12,6 @@ I build distributed systems, AI/ML systems, and DeFi protocols that hold up in p
 
 If you can't tell, I'm deep in distributed systems, Generative/Agentic AI, and Machine Learning right now. If you're building something interesting, or even just have an idea sprouting, reach out. Let's chat.
 
-**Domain areas:** Applied AI, SaaS, APIs, CX, Developer tools, Security & Compliance, Regulated industries (GovTech, Fintech), Fintech, Payments systems, web3.
-
-
  **📧 How to reach me: <a href="galiencodes13@gmail.com">galiencodes13@gmail.com<a/>**
 
 
